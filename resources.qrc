@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources.qrc</file>
+        <file>img/7.png</file>
+        <file>img/8.png</file>
+        <file>img/9.png</file>
+        <file>img/10.png</file>
+        <file>img/11.png</file>
+        <file>img/12.png</file>
+        <file>img/13.png</file>
+        <file>img/14.png</file>
+        <file>img/15.png</file>
+        <file>img/favicon.png</file>
+        <file>img/lay_del.png</file>
+        <file>img/lay_import.png</file>
+        <file>img/lay_new.png</file>
+        <file>img/lay_redo.png</file>
+        <file>img/lay_save.png</file>
+        <file>img/lay_undo.png</file>
+        <file>img/circle.png</file>
+        <file>img/ellipse.png</file>
+        <file>img/quadrangle.png</file>
+        <file>img/rectangle.png</file>
+        <file>img/sector.png</file>
+        <file>img/triangle.png</file>		
+    </qresource>
+</RCC>
